@@ -6,3 +6,5 @@ Absent
 ## VR Lab: 2 
 Considering doing a Camera idea for the project. Interactables are Camera and Polaroid picture print out. Player picks up camera and uses a thumb button to take a picture, which dispenses a polaroid.
 
+##VR Lab: 3
+Rumplestilskin
